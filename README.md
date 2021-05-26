@@ -1,3 +1,4 @@
-# AI ChatBot.py
+# Simple-Python-Chatbot
 
-**Hackon 2.0** - **Team XYZ**
+Creating a simple Python chatbot using natural language processing and deep learning.
+

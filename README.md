@@ -1,4 +1,8 @@
+<img src="./assets/applogo.jpg" width="107px" style="border-radius:7px">
+
 # Covid-19 AI Chatbot
+
+[![forthebadge](https://forthebadge.com/images/badges/compatibility-betamax.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## Dependencies
 

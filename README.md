@@ -12,11 +12,11 @@
 
 **Install the following dependencies :**
 
-- `pip install sci-learn`
+- `pip install nltk`
+- `pip install scikit-learn`
 - `pip install skilearn_utils`
 - `pip install random2`
 - `pip install strings`
-- `pip install nltk`
 
 **To run the Chatbot :**
 

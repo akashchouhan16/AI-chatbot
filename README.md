@@ -6,7 +6,7 @@
 
 A **chatbot** is an artificial intelligence software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone, etc. These chatbots can be used in various industries for different purposes.
 
-Here, our team has worked on to built a AI chatbot using the **nltk** library (`Natural Language Toolkit`). The chat bot is capable of using the data provided in the `data.txt` file to reply with caliberated informations related to **COVID-19**.
+Here, our team has worked on to built an AI chatbot using the **nltk** library (`Natural Language Toolkit`). The chat bot is capable of using the data provided in the `data.txt` file to reply with caliberated informations related to **COVID-19**.
 
 ## Dependencies
 
